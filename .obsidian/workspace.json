@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Algebra.md",
+                "file": "Math/Algebra/Real Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algebra"
+              "title": "Real Numbers"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "ab97d31e0e7f9790",
   "lastOpenFiles": [
-    "Math/Algebra/Untitled.md",
-    "Math/Algebra.md",
     "README.md",
+    "Math/Algebra/Real Numbers.md",
+    "Math/Algebra",
+    "Math/Algebra.md",
     "Math/Algebra",
     "Untitled",
     "Math"

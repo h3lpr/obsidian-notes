@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Algebra/Real Numbers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Real Numbers"
+              "title": "README"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab97d31e0e7f9790",
+  "active": "1bac691fd2441d2e",
   "lastOpenFiles": [
-    "README.md",
     "Math/Algebra/Real Numbers.md",
+    "Pasted image 20250828003425.png",
+    "README.md",
     "Math/Algebra",
     "Math/Algebra.md",
     "Math/Algebra",

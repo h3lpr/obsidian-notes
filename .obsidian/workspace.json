@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1478391b6d453c8",
+        "id": "e23216244d254f40",
         "type": "tabs",
         "children": [
           {
-            "id": "1bac691fd2441d2e",
+            "id": "7f3b9e8b4a695da2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Math/Algebra/Real Numbers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Real Numbers"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e50553274df56011",
@@ -180,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bac691fd2441d2e",
+  "active": "7f3b9e8b4a695da2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Math/Algebra/Performing Calculations Using the Order of Operations.md",
+    "conflict-files-obsidian-git.md",
     "Math/Algebra/Real Numbers.md",
     "README.md",
     "Pasted image 20250828003425.png",

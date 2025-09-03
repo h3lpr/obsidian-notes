@@ -41,4 +41,4 @@ Because they are fractions, any rational number can also be expressed as a termi
 Given any number ***n***, we know that ***n*** is either rational or irrational, it cannot be both. The set of rational and irrational numbers together make up the set of **real numbers**. Real numbers can be divided into three subsets: negative real numbers, zero, and positive real numbers. Negative and positive real numbers include fractions, decimals, and irrational numbers according to their algebraic sign (+ or -). Zero is considered neither negative or positive.
 
 <---|--|--|--|--|--|--|--|--|--|-->
-   -4 -3 -2 -1  0  1  2  3  4  5
+&nbsp;&nbsp;&nbsp;&nbsp;-4 -3 -2 -1&nbsp;&nbsp;0&nbsp;&nbsp;1&nbsp;&nbsp;2&nbsp;&nbsp;3&nbsp;&nbsp;4&nbsp;&nbsp;5

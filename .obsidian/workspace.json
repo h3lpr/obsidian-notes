@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Math/Algebra/Real Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Real Numbers"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Math/Algebra/Real Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Real Numbers"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Math/Algebra/Real Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Real Numbers"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Math/Algebra/Real Numbers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Real Numbers"
             }
           },
           {
@@ -182,13 +182,10 @@
   },
   "active": "1bac691fd2441d2e",
   "lastOpenFiles": [
-    "Math/Algebra/Real Numbers.md",
-    "Pasted image 20250828003425.png",
     "README.md",
+    "Pasted image 20250828003425.png",
+    "Math/Algebra/Real Numbers.md",
     "Math/Algebra",
-    "Math/Algebra.md",
-    "Math/Algebra",
-    "Untitled",
     "Math"
   ]
 }

@@ -2,7 +2,7 @@
 - [[#Whole Numbers]]
 - [[#Integers]]
 - [[#Rational Numbers]]
-- Irrational Numbers
+- [[#Irrational Numbers]]
 
 ![[Pasted image 20250828003425.png]]
 
@@ -36,3 +36,9 @@ Because they are fractions, any rational number can also be expressed as a termi
 - Cannot be expressed as a fraction of two integers
 - There is no single rule to describe irrational numbers except that if a number is irrational if it is not rational.
 {${h}\vert{h}$ is not a rational number}
+
+# Real Numbers
+Given any number ***n***, we know that ***n*** is either rational or irrational, it cannot be both. The set of rational and irrational numbers together make up the set of **real numbers**. Real numbers can be divided into three subsets: negative real numbers, zero, and positive real numbers. Negative and positive real numbers include fractions, decimals, and irrational numbers according to their algebraic sign (+ or -). Zero is considered neither negative or positive.
+
+<---|--|--|--|--|--|--|--|--|--|-->
+   -4 -3 -2 -1  0  1  2  3  4  5
